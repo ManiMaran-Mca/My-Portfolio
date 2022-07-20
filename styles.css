@@ -196,7 +196,7 @@ header .navbar ul li a:hover{
 }
 
 .about .row .info h3{
-    font-size: 5rem;
+    font-size: 3rem;
     color:var(--purple);
     padding:1rem 0;
     font-weight: normal;
